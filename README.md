@@ -13,7 +13,7 @@ A Python-based campus navigation application that helps users find the shortest 
 
 ## Demo
 
-![App Walkthrough](walkthrough.gif)
+![App Walkthrough](Walkthrough.gif)
 
 *App demonstration showing pathfinding between campus buildings*
 
